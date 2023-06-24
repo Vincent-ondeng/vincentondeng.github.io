@@ -17,16 +17,18 @@
 -  Built a sorting algorithm visualizer in python to visually represent the most commonly used algorithm used in sorting data strucyures.
 -  The sorting algorithms implemented were bubble sort, quick sort, insertion sort, and heap sort.
 ![Sorting_visualizer](Sorting_visualizer.jpeg)
+
 ### Express blog website
 -  With other team members, built a blog website 'Express' for ALX Backend Portfolio project
 -  The project involved using **React** and other backend technologies to fulfil the project objectives.
 ![logo](logo.png)
+
 ## Work Experience
 ** Freelancer @ Upwork (_Jan 2022 - Present_)**
 - Mapping projects
 - Spatial analysis
 
-** Survey Assistant @ Survey of Kenya (_July 2022 - October 2022_)
+** Survey Assistant @ Survey of Kenya (_July 2022 - October 2022_)**
 - Coordinate transformation
 - Geospatial analysis and data visualization
 
