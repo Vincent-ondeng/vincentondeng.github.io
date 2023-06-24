@@ -33,6 +33,7 @@
 ![logo](logo.png)
 
 # Publications/Articles
+![article](article.jpg)
 -  [Unlocking Agility: The Journey from Servers through Containers to Serverless Computing](https://medium.com/@vincentondeng/unlocking-agility-the-journey-from-servers-through-containers-to-serverless-computing-7da42cd67dca)
 -  [The future of GIS in healthcare](https://medium.com/@vincentondeng/the-future-of-gis-in-healthcare-58b7df2005ed)
 -  [Sorting Algorithm Visualizer](https://medium.com/@vincentondeng/sorting-algorithm-visualizer-e05e8ee8ee17)
