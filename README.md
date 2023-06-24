@@ -1,10 +1,10 @@
 # Geospatial software developer
 
-### Technical Skills: Python, ArcGIS, QGIS, Jupyter Notebook, Django
+### Technical Skills: Python, ArcGIS, Jupyter Notebook, Django
 
 ### Education
 - Bachelor, Geospatial Engineering | The University of Nairobi (_May 2023_)
-- Software Engineering | ALX Africa (_February_2023_)
+- Software Engineering |  ALX Africa (_February_2023_)
 
 ## Projects
 ### Mapping malaria Distribution using Folium
@@ -31,7 +31,7 @@
 
 
 # Publications/Articles
--  Unlocking Agility: The Journey from Servers through Containers to Serverless Computing (https://medium.com/@vincentondeng/unlocking-agility-the-journey-from-servers-through-containers-to-serverless-computing-7da42cd67dca)
--  The future of GIS in healthcare (https://medium.com/@vincentondeng/the-future-of-gis-in-healthcare-58b7df2005ed)
--  Sorting Algorithm Visualizer (https://medium.com/@vincentondeng/sorting-algorithm-visualizer-e05e8ee8ee17)
--  What happens when you type https://www.google.com in a web browser and press Enter (https://medium.com/@vincentondeng/what-happens-when-you-type-https-www-google-com-in-a-web-browser-and-press-enter-b6b8c52ea791)
+-  [Unlocking Agility: The Journey from Servers through Containers to Serverless Computing](https://medium.com/@vincentondeng/unlocking-agility-the-journey-from-servers-through-containers-to-serverless-computing-7da42cd67dca)
+-  [The future of GIS in healthcare](https://medium.com/@vincentondeng/the-future-of-gis-in-healthcare-58b7df2005ed)
+-  [Sorting Algorithm Visualizer](https://medium.com/@vincentondeng/sorting-algorithm-visualizer-e05e8ee8ee17)
+-  [What happens when you type https://www.google.com in a web browser and press Enter](https://medium.com/@vincentondeng/what-happens-when-you-type-https-www-google-com-in-a-web-browser-and-press-enter-b6b8c52ea791)
