@@ -6,8 +6,17 @@
 - Bachelor, Geospatial Engineering | The University of Nairobi (_May 2023_)
 - Software Engineering |  ALX Africa (_February_2023_)
 
+## Work Experience
+** Freelancer @ Upwork (_Jan 2022 - Present_)**
+- Mapping projects
+- Spatial analysis
+
+** Survey Assistant @ Survey of Kenya (_July 2022 - October 2022_)**
+- Coordinate transformation
+- Geospatial analysis and data visualization
+
 ## Projects
-### Mapping malaria Distribution using Folium
+### Mapping Malaria Distribution using Folium
 -  Conducted a research project to analyze the prevalence and distribution of malaria cases in Kisumu county.
 -  This project involved integrating various technology such as remote sensing, web mapping technologies and data science.
 -  Applied Python's **Folium** library to build a web map that enables real time monitoring of areas at high risk.
@@ -22,16 +31,6 @@
 -  With other team members, built a blog website 'Express' for ALX Backend Portfolio project
 -  The project involved using **React** and other backend technologies to fulfil the project objectives.
 ![logo](logo.png)
-
-## Work Experience
-** Freelancer @ Upwork (_Jan 2022 - Present_)**
-- Mapping projects
-- Spatial analysis
-
-** Survey Assistant @ Survey of Kenya (_July 2022 - October 2022_)**
-- Coordinate transformation
-- Geospatial analysis and data visualization
-
 
 # Publications/Articles
 -  [Unlocking Agility: The Journey from Servers through Containers to Serverless Computing](https://medium.com/@vincentondeng/unlocking-agility-the-journey-from-servers-through-containers-to-serverless-computing-7da42cd67dca)
