@@ -2,7 +2,7 @@
 
 ### Technical Skills: Python, ArcGIS, Jupyter Notebook, Django
 
-### Education
+## Education
 - Bachelor, Geospatial Engineering | The University of Nairobi (_May 2023_)
 - Software Engineering |  ALX Africa (_February_2023_)
 
